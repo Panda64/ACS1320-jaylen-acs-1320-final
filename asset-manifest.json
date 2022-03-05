@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/jaylen-acs-1320-final/static/css/main.06be800b.css",
+    "main.js": "/jaylen-acs-1320-final/static/js/main.4b58599d.js",
+    "static/js/787.e26f4d9e.chunk.js": "/jaylen-acs-1320-final/static/js/787.e26f4d9e.chunk.js",
+    "index.html": "/jaylen-acs-1320-final/index.html",
+    "main.06be800b.css.map": "/jaylen-acs-1320-final/static/css/main.06be800b.css.map",
+    "main.4b58599d.js.map": "/jaylen-acs-1320-final/static/js/main.4b58599d.js.map",
+    "787.e26f4d9e.chunk.js.map": "/jaylen-acs-1320-final/static/js/787.e26f4d9e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.06be800b.css",
+    "static/js/main.4b58599d.js"
+  ]
+}
