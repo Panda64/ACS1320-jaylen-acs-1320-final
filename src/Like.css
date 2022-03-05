@@ -1,0 +1,15 @@
+button {
+    background-color: Transparent;
+    background-repeat:no-repeat;
+    border: none;
+    font-size: 25px;
+    cursor: pointer;
+}
+
+.Like {
+    display: flex;
+}
+
+.Like > p, .Up {
+    margin-left: 20px;
+}
